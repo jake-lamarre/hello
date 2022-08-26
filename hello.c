@@ -7,6 +7,8 @@
 #include <stdio.h>
 cd
     printf("Jake LaMarre!\n");
+    printf("Clay Rauch\n");
+    printf("Electrical Engineering\n");
     return 0;
 }
 
